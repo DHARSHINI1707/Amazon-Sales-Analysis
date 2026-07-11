@@ -47,3 +47,26 @@ Created visualizations using:
 - Extracted business insights from customer purchasing data.
 
 ## Project Files
+Amazon-Sales-Analysis
+│
+├── Notebook
+│ └── Amazon_Sales_Analysis.ipynb
+│
+├── Report
+│ └── Amazon_Sales_Analysis.pdf
+│
+├── Dataset
+│ └── amazon_sales.csv
+│
+├── Images
+│ └── Analysis_Charts.png
+│
+└── README.md
+
+
+## Conclusion
+This project demonstrates the use of Python data analysis and visualization techniques to transform raw sales data into meaningful insights that can support business decision-making.
+
+## Author
+Dharshini S
+
